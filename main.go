@@ -16,5 +16,6 @@ func main() {
 	if os.Args[1] == "24" {
 		y24.Solution1()
 		y24.Solution2()
+		y24.Solution3()
 	}
 }
